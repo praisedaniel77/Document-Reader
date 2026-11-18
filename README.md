@@ -19,8 +19,8 @@ The document contains invented facts, so you can check that answers come from th
 ## Setup
 
 ```bash
-git clone https://github.com/YOURUSERNAME/REPO-NAME.git
-cd REPO-NAME
+git clone https://github.com/praisedaniel77/Document-Reader.git
+cd Document-Reader
 py -3.12 -m venv venv
 source venv/Scripts/activate
 pip install crewai litellm
